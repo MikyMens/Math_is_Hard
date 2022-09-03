@@ -11,4 +11,9 @@ if __name__ == "__main__":
     df.index.name = 'n'
     print('With a probability of 0.6, flip a coin n times and r is going to be number of sucessful head flips')
     print(df)
+
+
+
+
+    
     
